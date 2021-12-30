@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T02:10:56.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.0" etag="UapQUe_ZYrdiDMeZOotM" type="github"><diagram id="hXVJ3gBhNhegeCH-E7-8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-30T02:18:43.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Sl-ZFHRmfSk7P4SY9irr" version="16.1.0" type="github">
+  <diagram id="hXVJ3gBhNhegeCH-E7-8" name="第 1 页">
+    <mxGraphModel dx="1038" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3Bbfqr4P4dcc62THV-cg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3Bbfqr4P4dcc62THV-cg-2" target="3Bbfqr4P4dcc62THV-cg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bbfqr4P4dcc62THV-cg-2" value="流浪动物之家系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bbfqr4P4dcc62THV-cg-5" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="110" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bbfqr4P4dcc62THV-cg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Bbfqr4P4dcc62THV-cg-6" target="3Bbfqr4P4dcc62THV-cg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bbfqr4P4dcc62THV-cg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Bbfqr4P4dcc62THV-cg-6" target="3Bbfqr4P4dcc62THV-cg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bbfqr4P4dcc62THV-cg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Bbfqr4P4dcc62THV-cg-6" target="3Bbfqr4P4dcc62THV-cg-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="280" />
+              <mxPoint x="170" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Bbfqr4P4dcc62THV-cg-6" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bbfqr4P4dcc62THV-cg-8" value="查寻流浪动物信息请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bbfqr4P4dcc62THV-cg-10" value="流浪动物信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="180" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bbfqr4P4dcc62THV-cg-12" value="查寻已被领养动物信息请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3Bbfqr4P4dcc62THV-cg-16" value="领养信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
